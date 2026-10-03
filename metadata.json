@@ -1,0 +1,6 @@
+{
+  "name": "Lumen Store - Login & Selenium Cucumber Suite",
+  "description": "Luxury e-commerce storefront authentication with brand guidelines, dark mode, and an interactive IntelliJ IDEA Selenium Java Cucumber BDD automation workspace with CI/CD pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
